@@ -1,6 +1,6 @@
 def main():
 
-    for i in range (1,3):
+    for i in range (1,11):
         print(f"LINE # {i} Welcome")
 
         for j in range (1,4):

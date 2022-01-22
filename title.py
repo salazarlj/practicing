@@ -6,6 +6,8 @@ def main():
         for j in range (1,4):
             print (f" SUBTOPIC # {i} .{j}")
         print ("\n")
- 
+   print ("Good by")
+
 if __name__ =="__main__":
     main()
+
